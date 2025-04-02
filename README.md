@@ -58,7 +58,7 @@ This bot collects public phone numbers from Telegram groups and organizes them b
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/telegram-phone-scraper.git
+   git clone https://github.com/wrtgn/telegram-phone-scraper.git
    cd telegram-phone-scraper
 2. Install dependencies: 
     ```bash
